@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "f6cd27fb92d2ca99",
+    "type": "split",
+    "children": [
+      {
+        "id": "211af2303c5b9f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6772ff555112a792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100d2Meta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "100d2Meta"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "767375193bbbc778",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c8e99c9e854b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8433b2e970ab114",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "876b75131ad5cd9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba98664a63669250",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f7e3d22e070d99e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a738ef4db83602c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2f71520f09253a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity Multiplayer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unity Multiplayer"
+            }
+          },
+          {
+            "id": "8d38ace5408a4dc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity Multiplayer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unity Multiplayer"
+            }
+          },
+          {
+            "id": "9aa7dab3098ac753",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2522880c4352d32c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity Multiplayer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unity Multiplayer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6772ff555112a792",
+  "lastOpenFiles": [
+    "Viral_Youtube_Videos_Ideas.md",
+    "100d2Meta.md",
+    "Excalidraw/Drawing 2025-09-23 09.41.15.excalidraw.md",
+    "CS Osvita.md",
+    "CS Osvita Algorithms in Practice.md",
+    "Pasted image 20250929103935.png",
+    "img/Pasted image 20250929100336.png",
+    "img/Pasted image 20250929102401.png",
+    "Excalidraw/Drawing 2025-09-28 00.37.48.excalidraw.md",
+    "Untitled.base",
+    "Excalidraw/Drawing 2025-09-27 22.45.28.excalidraw.md",
+    "Viral_TikTok_Ideas.md",
+    "02_Resources/img/20250228_135047.jpg",
+    "01_Activities/img/Pasted image 20250717210034.png",
+    "2025-09-25.md",
+    "img/Pasted image 20250925150713.png",
+    "Unity Multiplayer.md",
+    "Excalidraw/Drawing 2025-09-25 08.14.24.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-23 09.41.15.excalidraw.restored.md",
+    "Excalidraw/Drawing 2025-09-23 08.20.58.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-25 08.10.36.excalidraw.md",
+    "202509250810.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Excalidraw",
+    "Untitled",
+    "img/Pasted image 20250914145936.png",
+    "img",
+    "img/Pasted image 20250914145805.png",
+    "img/Pasted image 20250914144446.png",
+    "img/Pasted image 20250914145302.png"
+  ]
+}

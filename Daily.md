@@ -1,3 +1,18 @@
-- [ ] Cracking Coding Interview Chapter
-- [ ] 5 LeetCode problems 
-- [ ] 2 short videos 
+- [ ] ~~Cracking Coding Interview Chapter (or Patterns )~~
+- [ ] 🔼 Daily work starting Ritual 
+	- [ ] Morning Ritual 
+	- [ ] Work start ritual 
+- [ ] 🔺 4H of DEEP READING
+	- [ ]  🔺  1 Chapter of Coding Interview Patterns 
+	- [ ] 🔼 1 Chapter of DEEP WORK (Kindle strike)
+- [ ] 🔺 5 LeetCode problems 
+	- [ ] 1 Hacker Rank Task
+	- [ ] 1 Meta Leraning Hub task 
+- [ ] ⏫  1 Mock Interview 
+- [ ] 🔺 Educative strike
+	- [ ] 1 day Behavioural + notes 
+	- [ ] 1 day System Design. 
+- [ ] 🔼 **SMM** 
+	- [ ] 1 short video of me just DEEP READING
+	- [ ] 1 shorts daily update  
+	- [ ] 1 Video explainig LeetCode problem 

@@ -1,3 +1,0 @@
-- **Auxiliary space** → additional space your algorithm requires (e.g., extra arrays, hash maps, recursion stack, temporary variables).
-- **Palindrom**e vs **Anagram** 
-- 
